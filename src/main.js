@@ -3,7 +3,7 @@ import App from "./App.vue";
 import router from "./router";
 import vuetify from "./plugins/vuetify";
 import axios from "axios";
-
+/* Testando */
 import * as firebase from "firebase/app";
 
 firebase.initializeApp({
